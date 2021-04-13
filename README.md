@@ -23,7 +23,7 @@
 * bushes that slow you down for 1 turn
 * a game log and monitoring interface for the server
 
-<b>List of IPC tools that I used:</b>
+# List of IPC tools that I used:
 * threads
 * mutexes
 * unamed and named semaphores
