@@ -3,7 +3,7 @@
 
 <h3>Client view:</h3>
 
-![clientview](https://user-images.githubusercontent.com/47251508/114604933-d442a980-9c99-11eb-80d1-5e2a0b34fb6c.png)
+![clientview](serverview.pmng)
 
 <h3>Server view</h3>
 ![serverview](clientview.png)
