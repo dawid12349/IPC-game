@@ -14,7 +14,7 @@
 <p>running a <b>client</b>(up to 4): "gcc client.c -o client -lpthread -lrt -lcurses -lm && ./client"</p>
 
 
-<b>Features:</b>
+# Features:
 * turn-based<
 * 4 playable concurrent players
 * spawning up to 3 enemies
