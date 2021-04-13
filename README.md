@@ -12,13 +12,13 @@
 
 
 <b>Features:</b><
-*turn-based<
-*4 playable concurrent players
-*spawning up to 3 enemies
-*spawning up to 20 collectable treasures
-*droping loot after death
-*bushes that slow you down for 1 turn<
-*a game log and monitoring interface for the server
+<li>turn-based</li>
+<li>4 playable concurrent players</li>
+<li>spawning up to 3 enemies</li>
+<li>spawning up to 20 collectable treasures</li>
+<li>droping loot after death</li>
+<li>bushes that slow you down for 1 turn</li>
+<li>a game log and monitoring interface for the server</li>
 
 <b><ul>List of IPC tools that I used:</ul></b>
 <li>threads</li>
