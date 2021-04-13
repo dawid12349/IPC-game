@@ -11,7 +11,7 @@
 <p>running a <b>client</b>(up to 4): "gcc client.c -o client -lpthread -lrt -lcurses -lm && ./client"</p>
 
 
-<b>Features:</b>
+<ul><b>Features:</b></ul>
 <li>turn-based</li>
 <li>4 playable concurrent players</li>
 <li>spawning up to 3 enemies</li>
@@ -19,7 +19,6 @@
 <li>droping loot after death</li>
 <li>bushes that slow you down for 1 turn</li>
 <li>a game log and monitoring interface for the server</li>
-
 <ul><b>List of IPC tools that I used:</b></ul>
 <li>threads</li>
 <li>mutexes</li>
