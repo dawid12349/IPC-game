@@ -9,7 +9,7 @@
 
 ![serverview](serverview.png)
 
-<b>Commands for linux:</b>
+# deployment Commands for linux:
 <p>running a <b>server</b>: "gcc main.c -o server -lpthread -lrt -lcurses -lm && ./server"</p>
 <p>running a <b>client</b>(up to 4): "gcc client.c -o client -lpthread -lrt -lcurses -lm && ./client"</p>
 
