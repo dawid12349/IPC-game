@@ -1,28 +1,28 @@
 # IPC-game
-A simple IPC pacman-like game mady by using C programming langauge.
+<h3>A simple IPC pacman-like game mady by using C programming langauge.</h3>
 
-commands for linux:
+<b>commands for linux:</b>
 
 running a server: "gcc main.c -o server -lpthread -lrt -lcurses -lm && ./server"
 
 running a client(up to 4): "gcc client.c -o client -lpthread -lrt -lcurses -lm && ./client"
 
 
-Features:
+<ul><b>Features:</b></ul>
 
-turn-based
+<li>turn-based</li>
 
-4 playable concurrent players
+<li>4 playable concurrent players</li>
 
-spawning up to 3 enemies
+<li>spawning up to 3 enemies</li>
 
-spawning up to 20 collectable treasures
+<li>spawning up to 20 collectable treasures</li>
 
-droping loot after death
+<li>droping loot after death</li>
 
-bushes that slow you down for 1 turn
+<li>bushes that slow you down for 1 turn</li>
 
-a game log and monitoring interface for the server
+<li>a game log and monitoring interface for the server</li>
 
 List of IPC tools that I used:
 
