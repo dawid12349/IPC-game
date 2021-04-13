@@ -2,6 +2,7 @@
 A simple IPC pacman-like game mady by using C programming langauge.
 
 commands for linux:
+
 running a server: "gcc main.c -o server -lpthread -lrt -lcurses -lm && ./server"
 
 running a client(up to 4): "gcc client.c -o client -lpthread -lrt -lcurses -lm && ./client"
