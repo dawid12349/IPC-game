@@ -14,18 +14,19 @@
 <p>running a <b>client</b>(up to 4): "gcc client.c -o client -lpthread -lrt -lcurses -lm && ./client"</p>
 
 
-<ul><b>Features:</b></ul>
-<li>turn-based</li>
-<li>4 playable concurrent players</li>
-<li>spawning up to 3 enemies</li>
-<li>spawning up to 20 collectable treasures</li>
-<li>droping loot after death</li>
-<li>bushes that slow you down for 1 turn</li>
-<li>a game log and monitoring interface for the server</li>
-<ul><b>List of IPC tools that I used:</b></ul>
-<li>threads</li>
-<li>mutexes</li>
-<li>unamed and named semaphores</li>
-<li>shared memory</li>
+<b>Features:</b>
+* turn-based<
+* 4 playable concurrent players
+* spawning up to 3 enemies
+* spawning up to 20 collectable treasures
+* droping loot after death
+* bushes that slow you down for 1 turn
+* a game log and monitoring interface for the server
+
+<b>List of IPC tools that I used:</b>
+* threads
+* mutexes
+* unamed and named semaphores
+* shared memory
 
 
