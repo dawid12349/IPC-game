@@ -3,10 +3,11 @@
 
 <h3>Client view:</h3>
 
-![clientview](serverview.png)
+![clientview](clientview.png)
 
 <h3>Server view</h3>
-![serverview](clientview.png)
+
+![serverview](serverview.png)
 
 <b>commands for linux:</b>
 <p>running a <b>server</b>: "gcc main.c -o server -lpthread -lrt -lcurses -lm && ./server"</p>
