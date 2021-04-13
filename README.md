@@ -5,7 +5,7 @@
 
 ![clientview](clientview.png)
 
-<h3>Server view</h3>
+<h3>Server view:</h3>
 
 ![serverview](serverview.png)
 
