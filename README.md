@@ -3,7 +3,7 @@
 
 <h3>Client view:</h3>
 
-![clientview](serverview.pmng)
+![clientview](serverview.png)
 
 <h3>Server view</h3>
 ![serverview](clientview.png)
