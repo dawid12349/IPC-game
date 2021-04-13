@@ -4,7 +4,7 @@
 <h3>Client view:</h3>
 ![clientview](https://user-images.githubusercontent.com/47251508/114604933-d442a980-9c99-11eb-80d1-5e2a0b34fb6c.png)
 <h3>Server view</h3>
-![serverview](https://user-images.githubusercontent.com/47251508/114605010-e886a680-9c99-11eb-8e79-7d083b16529d.png)
+![serverview](/clientview.png)
 
 <b>commands for linux:</b>
 <p>running a <b>server</b>: "gcc main.c -o server -lpthread -lrt -lcurses -lm && ./server"</p>
