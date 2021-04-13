@@ -2,8 +2,8 @@
 <h3>A simple IPC pacman-like game mady by using C programming langauge.</h3>
 
 <b>commands for linux:</b>
-running a server: "gcc main.c -o server -lpthread -lrt -lcurses -lm && ./server"
-running a client(up to 4): "gcc client.c -o client -lpthread -lrt -lcurses -lm && ./client"
+<p>running a <b>server</b>: "gcc main.c -o server -lpthread -lrt -lcurses -lm && ./server"</p>
+<p>running a <b>client</b>(up to 4): "gcc client.c -o client -lpthread -lrt -lcurses -lm && ./client"</p>
 
 <ul><b>Features:</b></ul>
 <li>turn-based</li>
